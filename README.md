@@ -1,2 +1,2 @@
 # Itok.ConfigCenter
-Orleans-based config centor
+Orleans-based config center
